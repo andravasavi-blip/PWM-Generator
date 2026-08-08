@@ -1,0 +1,5 @@
+| Duty Cycle Input | Duty Cycle | PWM Output                |
+| ---------------: | ---------: | ------------------------- |
+|          `8'd64` |        25% | HIGH for 25%, LOW for 75% |
+|         `8'd128` |        50% | HIGH for 50%, LOW for 50% |
+|         `8'd192` |        75% | HIGH for 75%, LOW for 25% |
